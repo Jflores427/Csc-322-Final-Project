@@ -5,9 +5,8 @@ This is CCNY Zero , a graduate program management system.
 ## Live Website Link
 [CCNY Zero Live](https://csc-322-project.web.app/)
 
-
-## Website Demo (Video)
-[![Watch the video](https://i.imgur.com/3XP8mBC.png)]
+## Website Image (Image)
+(https://i.imgur.com/3XP8mBC.png)]
 
 ## Group Members Team E
 - Haroon Syed
