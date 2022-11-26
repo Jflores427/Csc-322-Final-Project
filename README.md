@@ -7,7 +7,7 @@ This is CCNY Zero , a graduate program management system.
 
 
 ## Website Demo (Video)
-[![Watch the video](https://i.imgur.com/3XP8mBC.png)](https://www.youtube.com/watch?v=FFdOIdtwPKg)
+[![Watch the video](https://i.imgur.com/3XP8mBC.png)]
 
 ## Group Members Team E
 - Haroon Syed
